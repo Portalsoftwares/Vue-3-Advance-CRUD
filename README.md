@@ -3,7 +3,7 @@ A Complete Single Page Application (SPA) or Product CRUD Application using Vue 3
 
 ---
 
-## Vue-3 CRUD Project Demo
+## Vue-3 CRUD Project Demo     
 
 Let's check the whole demo of the application of Vue-3 Complete CRUD with Vuex:
 
